@@ -1,2 +1,3 @@
-token.json
+# .gitignore
 credentials.json
+token.json
